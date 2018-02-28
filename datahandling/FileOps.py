@@ -62,8 +62,7 @@ def filterStringList(wrd_lst,excl_lst):
                     break
             else:
                 continue
-            
-    return wrd_lst
+     return wrd_lst
 
 
     
