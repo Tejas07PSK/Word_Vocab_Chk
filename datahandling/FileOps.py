@@ -47,7 +47,7 @@ def getWordList():
     word_lst = word_tokenize(txt)
     seperators = ['(',')',';',':','[',']',',','{','}','-','=','\n','.',' ']
     #nouse_words = stopwords.words('english')
-    nouse_words = ['are','Abstract'] #We can customize our own low priority words 
+    nouse_words = ['are','Abstract'] #++++++++We can customize our own low priority words++++++# 
     word_lst=filterStringList(word_lst,seperators+nouse_words)
     return word_lst
     
