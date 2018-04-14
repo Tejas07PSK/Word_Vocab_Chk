@@ -2,6 +2,7 @@
 Created on 25-Feb-2018
 
 @author: palashsarkar
+@mentor: sumitgupta
 '''
 from datahandling.FileOps import getWordList as gwl
 from datahandling.Compare import compareLists as cmplsts
