@@ -2,6 +2,7 @@
 Created on 01-Mar-2018
 
 @author: palashsarkar
+@mentor: sumitgupta
 '''
 from datahandling import RabinKarp as rab
 
