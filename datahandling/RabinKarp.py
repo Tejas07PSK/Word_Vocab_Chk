@@ -2,6 +2,7 @@
 Created on 25-Feb-2018
 
 @author: palashsarkar
+@mentor: sumitgupta
 '''
 
 class RabinKarpMatcher(object):
