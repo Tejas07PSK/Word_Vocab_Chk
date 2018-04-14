@@ -2,6 +2,7 @@
 Created on 27-Feb-2018
 
 @author: palashsarkar
+@mentor: sumitgupta
 '''
 
 import PyPDF2
